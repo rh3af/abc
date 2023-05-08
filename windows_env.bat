@@ -1,0 +1,1 @@
+conda env create -f environment.yml && conda activate biomed_final && call python -m ipykernel install --user --name=biomed_final
